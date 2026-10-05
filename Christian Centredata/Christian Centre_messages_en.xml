@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="en_project_title"><![CDATA[Christian Centre]]></data>
+  <data name="en_project_author_name"><![CDATA[Developed by  I-360 LIMITED '+234 803 618 2894']]></data>
+  <data name="en_project_author_url"><![CDATA[http://www.i360limited.com/]]></data>
+
+
+
+  <data name="en_pano46_title"><![CDATA[Front]]></data>
+  <data name="en_spotpoint70_tooltip"><![CDATA[Reception]]></data>
+  <data name="en_spotpoint71_tooltip"><![CDATA[Interior]]></data>
+  <data name="en_spotpoint72_tooltip"><![CDATA[Tower]]></data>
+  <data name="en_spotpoint73_tooltip"><![CDATA[North]]></data>
+
+
+  <data name="en_pano48_title"><![CDATA[North]]></data>
+  <data name="en_spotpoint76_tooltip"><![CDATA[Reception]]></data>
+  <data name="en_spotpoint77_tooltip"><![CDATA[North Arc]]></data>
+  <data name="en_spotpoint78_tooltip"><![CDATA[Front]]></data>
+  <data name="en_spotpoint79_tooltip"><![CDATA[Interior View]]></data>
+
+
+  <data name="en_pano45_title"><![CDATA[Reception]]></data>
+  <data name="en_spotpoint80_tooltip"><![CDATA[Exit]]></data>
+
+
+  <data name="en_pano49_title"><![CDATA[North Arc]]></data>
+  <data name="en_spotpoint81_tooltip"><![CDATA[Back]]></data>
+  <data name="en_spotpoint82_tooltip"><![CDATA[Reception]]></data>
+
+
+  <data name="en_pano50_title"><![CDATA[Altar]]></data>
+  <data name="en_spotpoint87_tooltip"><![CDATA[Pipe Organ]]></data>
+
+
+  <data name="en_pano51_title"><![CDATA[Interior View]]></data>
+  <data name="en_spotpoint85_tooltip"><![CDATA[Exit]]></data>
+  <data name="en_spotpoint86_tooltip"><![CDATA[Alter]]></data>
+
+
+  <data name="en_pano52_title"><![CDATA[Back]]></data>
+  <data name="en_spotpoint88_tooltip"><![CDATA[North Arc]]></data>
+  <data name="en_spotpoint89_tooltip"><![CDATA[Front]]></data>
+
+
+  <data name="en_pano53_title"><![CDATA[Side]]></data>
+  <data name="en_spotpoint90_tooltip"><![CDATA[Front]]></data>
+
+
+  <data name="en_pano47_title"><![CDATA[Tower]]></data>
+  <data name="en_spotpoint75_tooltip"><![CDATA[Front]]></data>
+
+
+
+
+
+
+  <data name="en_descriptiondescription_title"><![CDATA[]]></data>
+  <data name="en_descriptiondisplay_close_text"><![CDATA[Close]]></data>
+  <data name="en_controlBar_classiczoomInTip"><![CDATA[Zoom in]]></data>
+  <data name="en_controlBar_classiczoomOutTip"><![CDATA[Zoom out]]></data>
+  <data name="en_controlBar_classicopenFsTip"><![CDATA[Enter fullscreen]]></data>
+  <data name="en_controlBar_classiccloseFsTip"><![CDATA[Exit fullscreen]]></data>
+  <data name="en_controlBar_classicautorotateOnTip"><![CDATA[Start autorotation]]></data>
+  <data name="en_controlBar_classicautorotateOffTip"><![CDATA[Stop autorotation]]></data>
+  <data name="en_controlBar_classicautotourOnTip"><![CDATA[Start automatic tour]]></data>
+  <data name="en_controlBar_classicautotourOffTip"><![CDATA[Stop automatic tour]]></data>
+  <data name="en_controlBar_classicsoundsOnTip"><![CDATA[Start sounds]]></data>
+  <data name="en_controlBar_classicsoundsOffTip"><![CDATA[Stop sounds]]></data>
+  <data name="en_controlBar_classicshowSpotsTip"><![CDATA[Show hotspots]]></data>
+  <data name="en_controlBar_classichideSpotsTip"><![CDATA[Hide hotspots]]></data>
+  <data name="en_controlBar_classicshowThumbnailsTip"><![CDATA[Show thumbnails]]></data>
+  <data name="en_controlBar_classichideThumbnailsTip"><![CDATA[Hide thumbnails]]></data>
+  <data name="en_controlBar_classicdisplayHelpTip"><![CDATA[Show help screen]]></data>
+  <data name="en_controlBar_classichideHelpTip"><![CDATA[Hide help screen]]></data>
+  <data name="en_controlBar_classicdisplayInfoTip"><![CDATA[Show information]]></data>
+  <data name="en_controlBar_classichideInfoTip"><![CDATA[Hide information]]></data>
+  <data name="en_controlBar_classicenterVRTip"><![CDATA[VR mode]]></data>
+  <data name="en_controlBar_classicenterVRNotTip"><![CDATA[VR mode is unavailable]]></data>
+  <data name="en_controlBar_classicdisplayControlsTip"><![CDATA[Show controls]]></data>
+  <data name="en_controlBar_classichideControlsTip"><![CDATA[Hide controls]]></data>
+  <data name="en_contextmenuopenwebsitelabel1"><![CDATA[NIGERIAN TOURISM DEVELOPMENT CORPORATION (NTDC) ]]></data>
+  <data name="en_contextmenuwebsiteurl1"><![CDATA[http://tournigeria.gov.ng/]]></data>
+  <data name="en_contextmenuopenFsLabel"><![CDATA[Enter Fullscreen]]></data>
+  <data name="en_contextmenucloseFsLabel"><![CDATA[Exit Fullscreen]]></data>
+  <data name="en_contextmenuopenVrLabel"><![CDATA[Enter VR mode]]></data>
+  <data name="en_contextmenunormallabel"><![CDATA[Normal View]]></data>
+  <data name="en_contextmenufisheyelabel"><![CDATA[Fisheye View]]></data>
+  <data name="en_contextmenuarchitecturallabel"><![CDATA[Architectural View]]></data>
+  <data name="en_contextmenustereographiclabel"><![CDATA[Stereographic View]]></data>
+  <data name="en_contextmenupanninilabel"><![CDATA[Pannini View]]></data>
+  <data name="en_contextmenulittleplanetlabel"><![CDATA[Little Planet View]]></data>
+  <data name="en_contextmenufisheyeballlabel"><![CDATA[Fisheye Ball View]]></data>
+  <data name="en_logowebsiteurl"><![CDATA[http://www.i360limited.com/]]></data>
+  <data name="en_prevnexttheme1prevSceneTip"><![CDATA[Previous Scene]]></data>
+  <data name="en_prevnexttheme1nextSceneTip"><![CDATA[Next Scene]]></data>
+  <data name="en_buttontooltip"><![CDATA[Locate on Map]]></data>
+  <data name="en_buttononclick121358openurlwebsiteurl"><![CDATA[https://goo.gl/maps/bpPyNCoNtU7YAZBQ6]]></data>
+  <data name="en_button1tooltip"><![CDATA[About]]></data>
+  <data name="en_button2tooltip"><![CDATA[Social Share]]></data>
+  <data name="en_logo2websiteurl"><![CDATA[http://tournigeria.gov.ng/]]></data>
+  <data name="en_logo2tooltipText"><![CDATA[Open website]]></data>
+  <data name="en_floorPlanmenu_label"><![CDATA[Select a floor plan]]></data>
+  <data name="en_floorPlandisplay_close_text"><![CDATA[Close]]></data>
+  <data name="en_socialShareclose_text"><![CDATA[Close]]></data>
+  <data name="en_socialShareembed_text"><![CDATA[Copy paste this code in your page to embed this virtual tour]]></data>
+  <data name="en_socialShareembed_width_label"><![CDATA[Width]]></data>
+  <data name="en_socialShareembed_height_label"><![CDATA[Height]]></data>
+  <data name="en_button3tooltip"><![CDATA[]]></data>
+  <data name="en_webVideoViewerfullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_webVideoViewerclose_text"><![CDATA[Close]]></data>
+  <data name="en_galleryfullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_galleryclose_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title0"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption0"><![CDATA[]]></data>
+  <data name="en_websiteViewerfullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_websiteViewerclose_text"><![CDATA[Close]]></data>
+
+
+  <data name="en_vr_setup_hmd0"><![CDATA[SELECT YOUR HMD]]></data>
+  <data name="en_vr_setup_advanced"><![CDATA[ADVANCED SETTINGS]]></data>
+  <data name="en_vr_setup_title"><![CDATA[WEB VR SETTINGS]]></data>
+  <data name="en_vr_setup_dvn1"><![CDATA[Device:]]></data>
+  <data name="en_vr_setup_siz1"><![CDATA[Screen size:]]></data>
+  <data name="en_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="en_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="en_vr_setup_hmd3"><![CDATA[Customize]]></data>
+  <data name="en_vr_setup_cal"><![CDATA[Calibrate gyroscope]]></data>
+  <data name="en_vr_setup_sav"><![CDATA[SAVE]]></data>
+  <data name="en_vr_setup_rst"><![CDATA[RESET]]></data>
+  <data name="en_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="en_vr_setup_cls"><![CDATA[CLOSE]]></data>
+  <data name="en_vr_setup_m31"><![CDATA[HMD SETTINGS]]></data>
+  <data name="en_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="en_vr_setup_dst1"><![CDATA[Distortion:]]></data>
+  <data name="en_vr_setup_d2tx"><![CDATA[Distortion 2:]]></data>
+  <data name="en_vr_setup_vig1"><![CDATA[Vignette:]]></data>
+  <data name="en_vr_setup_cac1"><![CDATA[Chromatic aberration:]]></data>
+  <data name="en_vr_setup_olp1"><![CDATA[Overlap:]]></data>
+  <data name="en_vr_setup_m35"><![CDATA[RETURN]]></data>
+  <data name="en_vr_setup_cb1"><![CDATA[GYROSCOPE]]></data>
+  <data name="en_vr_setup_cb2"><![CDATA[Place the device on a flat and[br]stable surface and tab CALIBRATE[br]to correct a gyroscope drifting.]]></data>
+  <data name="en_vr_setup_cb3"><![CDATA[CALIBRATE]]></data>
+  <data name="en_vr_setup_cb4"><![CDATA[RESET]]></data>
+  <data name="en_vr_setup_cb5"><![CDATA[RETURN]]></data>
+  <data name="en_vr_setup_cb6"><![CDATA[Calibrating...]]></data>
+  <data name="en_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
+  <data name="en_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
+  <data name="en_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+
+
+  <data name="en_pano46_description"><![CDATA[<div>Welcome to National Christian Centre.&nbsp;</div><div><br></div><div>The Centre is the primary Christian place of worship in Nigeria, a country with a substantial Christian population. It is located in Abuja, the capital city. The National Church of Nigeria is an inter-denominational church.</div>]]></data>
+
+
+
+  <data name="en_pano48_description"><![CDATA[National Christian Centre is the primary Christian place of worship in Nigeria, a country with a substantial Christian population.It is located in Abuja, the capital city. The National Church of Nigeria is an inter-denominational church.]]></data>
+
+
+
+  <data name="en_pano45_description"><![CDATA[When not being used for Christian ceremonies, it is open to the public. Guided tours are available for anyone interested in having a look. In some cases, members of the public are only allowed to tour the church when accompanied by a guide.]]></data>
+
+
+
+  <data name="en_pano49_description"><![CDATA[The church was built by Italian construction firm Gitto Costruzioni Generali Nigeria Ltd and was completed in 2004. The dedication, on the 2nd of October 2005, coincided with the celebration of Nigeria’s 45th anniversary as an independent nation. The dedication service was presided over by Reverend Peter Akinola, the Anglican Primate of Nigeria.]]></data>
+
+
+
+  <data name="en_pano50_description"><![CDATA[The altar, placed at the centre of the church completes a full rotation every ten minutes. A pipe organ is fitted to the right wing of the church, close to which sits the choir. Stained glass windows which employ a simple but attractive mix of yellow, green and red colours can be seen all around the church.]]></data>
+
+
+
+
+
+
+  <data name="en_pano52_description"><![CDATA[The church was built by Italian construction firm Gitto Costruzioni Generali Nigeria Ltd and was completed in 2004. The dedication, on the 2nd of October 2005, coincided with the celebration of Nigeria’s 45th anniversary as an independent nation.The dedication service was presided over by Reverend Peter Akinola, the Anglican Primate of Nigeria.]]></data>
+
+
+
+  <data name="en_pano53_description"><![CDATA[The church was built by Italian construction firm Gitto Costruzioni Generali Nigeria Ltd and was completed in 2004. The dedication, on the 2nd of October 2005, coincided with the celebration of Nigeria’s 45th anniversary as an independent nation. The dedication service was presided over by Reverend Peter Akinola, the Anglican Primate of Nigeria.]]></data>
+
+
+
+  <data name="en_pano47_description"><![CDATA[The highest structure in the city is the tower (cross), when on it one can have a panoramic view of almost 80% of the city, this is a sight to behold.]]></data>
+
+
+</krpano>
